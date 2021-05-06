@@ -1,3 +1,4 @@
+原文地址 https://github.com/BSlience/transformer-all-in-one
 # Transformer 一篇就够了
 
 记录了学习Transformer过程中的一些疑问和解答，并且实现Transformer的全过程。
